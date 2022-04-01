@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/stats-base-dists-kumaraswamy-mean",
+  "version": "0.0.0",
+  "description": "Kumaraswamy's double bounded distribution expected value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-kumaraswamy-mean.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "mean",
+    "location",
+    "center",
+    "average",
+    "avg",
+    "expected",
+    "moments",
+    "continuous",
+    "probability",
+    "prob",
+    "kumaraswamy",
+    "bounded",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
