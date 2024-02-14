@@ -69,7 +69,7 @@ where `a` is the first shape parameter, `b` the second shape parameter, and `Γ`
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-mean@v0.2.0-esm/index.mjs';
 ```
 
 #### mean( a, b )
@@ -144,7 +144,7 @@ y = mean( 2.0, 0.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-mean@v0.2.0-esm/index.mjs';
 
 var a;
 var b;
