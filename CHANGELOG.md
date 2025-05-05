@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-05-05)
+
+<section class="features">
+
+### Features
+
+-   [`b98e338`](https://github.com/stdlib-js/stdlib/commit/b98e338f05a6d73a564797ca9e8d83a8618af3ee) - add C implementation for `stats/base/dists/kumaraswamy/mean` [(#4060)](https://github.com/stdlib-js/stdlib/pull/4060)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3700](https://github.com/stdlib-js/stdlib/issues/3700)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b98e338`](https://github.com/stdlib-js/stdlib/commit/b98e338f05a6d73a564797ca9e8d83a8618af3ee) - **feat:** add C implementation for `stats/base/dists/kumaraswamy/mean` [(#4060)](https://github.com/stdlib-js/stdlib/pull/4060) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Manvith M
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
