@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-06)
+## Unreleased (2025-05-14)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c4ed64c`](https://github.com/stdlib-js/stdlib/commit/c4ed64c4024bd667104234ce5775d1e2ce7faecd) - **chore:** clean-up _(by Athan Reines)_
 -   [`8c463ff`](https://github.com/stdlib-js/stdlib/commit/8c463ff85300e86d6a782511d1defea793994da5) - **style:** fix indentation in C files _(by Philipp Burckhardt)_
 -   [`b98e338`](https://github.com/stdlib-js/stdlib/commit/b98e338f05a6d73a564797ca9e8d83a8618af3ee) - **feat:** add C implementation for `stats/base/dists/kumaraswamy/mean` [(#4060)](https://github.com/stdlib-js/stdlib/pull/4060) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Manvith M
 -   Philipp Burckhardt
 
