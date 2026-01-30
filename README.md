@@ -69,7 +69,7 @@ where `a` is the first shape parameter, `b` the second shape parameter, and `Γ`
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-mean@v0.3.0-esm/index.mjs';
 ```
 
 #### mean( a, b )
@@ -145,7 +145,7 @@ y = mean( 2.0, 0.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-mean@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
