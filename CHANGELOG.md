@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-08-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`048e06b`](https://github.com/stdlib-js/stdlib/commit/048e06b6a6d7655a5bf4c20840e14f2449b34950) - **test:** migrate `stats/base/dists/kumaraswamy/mean` to ULP-based assertions [(#14163)](https://github.com/stdlib-js/stdlib/pull/14163) _(by Athan Reines)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`0a3bfa2`](https://github.com/stdlib-js/stdlib/commit/0a3bfa2d83ccf5139c1557f07b936fac61cf5838) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
