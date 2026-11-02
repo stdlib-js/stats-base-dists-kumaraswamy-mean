@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-24)
+## Unreleased (2026-11-02)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`dff5bb8`](https://github.com/stdlib-js/stdlib/commit/dff5bb81ff7f0aed92b89cba178e6f8a85611e52) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`bbd0c01`](https://github.com/stdlib-js/stdlib/commit/bbd0c013504b1d288625f26b31e87b4690610d6a) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`f1c2b9b`](https://github.com/stdlib-js/stdlib/commit/f1c2b9bb60663a6c8378d7c41aa3274af0410aec) - **docs:** fix equation [(#16232)](https://github.com/stdlib-js/stdlib/pull/16232) _(by Prashant Kumar Yadav)_
 -   [`048e06b`](https://github.com/stdlib-js/stdlib/commit/048e06b6a6d7655a5bf4c20840e14f2449b34950) - **test:** migrate `stats/base/dists/kumaraswamy/mean` to ULP-based assertions [(#14163)](https://github.com/stdlib-js/stdlib/pull/14163) _(by Athan Reines)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
